@@ -37,3 +37,11 @@ if (number < 12) {
 ### English:
 
 _A2_
+
+### Contact info:
+
+1. email: magistr9698@gmail.com
+2. telegram: Magistr2014a
+3. linkedIn: [antongolovko1985](www.linkedin.com/in/antongolovko1985)
+4. phone: +375(29)763-38-11
+5. gitHub: [AG21A](https://github.com/AG21A)
