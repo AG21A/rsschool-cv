@@ -26,12 +26,12 @@ My strengths are high teachability, initiative, energy, responsibility, attentio
 ### Code examples:
 
 ```
-/*let number = 10;
+let number = 10;
 if (number < 12) {
 	console.log('Good');
 } else {
 	consile.log('not true')
-}*/
+}
 ```
 
 ### English:
